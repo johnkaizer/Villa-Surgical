@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "196548811341",
+    "firebase_url": "https://villasurgical-602f7-default-rtdb.firebaseio.com",
+    "project_id": "villasurgical-602f7",
+    "storage_bucket": "villasurgical-602f7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:196548811341:android:32220faf7afa06feb69a04",
+        "android_client_info": {
+          "package_name": "com.example.villasurgical"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "196548811341-t152ve28jqp13khdv629ouii9dtdgger.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkBwQJATP4RhpH3zABrJ9fyrXVv8wfMyE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "196548811341-t152ve28jqp13khdv629ouii9dtdgger.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
