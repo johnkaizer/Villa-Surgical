@@ -1,20 +1,29 @@
 <?xml version="1.0" encoding="utf-8"?>
 <menu xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:id="@+id/search_item"
+        android:icon="@drawable/shopping_cart_24"
+        android:title="Cart"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/action_notifications"
+        android:title="Notifications"
+        android:icon="@drawable/notifications_24"
+        app:showAsAction="always" />
     <item
         android:id="@+id/action_settings"
         android:orderInCategory="100"
-        android:title="Settings"
+        android:title="Our Company"
         app:showAsAction="never" />
     <item
         android:id="@+id/action_about"
         android:orderInCategory="100"
-        android:title="About App"
+        android:title="Our Services"
         app:showAsAction="never" />
     <item
         android:id="@+id/map"
         android:orderInCategory="100"
-        android:title="Church Directions"
+        android:title="Contact Us"
         app:showAsAction="never" />
     <item
         android:id="@+id/action_logout"
